@@ -1,0 +1,11 @@
+C:\Users\Ermak\MyProject\second\second\second\bin\Debug\second.exe.config
+C:\Users\Ermak\MyProject\second\second\second\bin\Debug\second.exe
+C:\Users\Ermak\MyProject\second\second\second\bin\Debug\second.pdb
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.csproj.AssemblyReference.cache
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.Form1.resources
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.Properties.Resources.resources
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.csproj.GenerateResource.cache
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.csproj.CoreCompileInputs.cache
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.exe
+C:\Users\Ermak\MyProject\second\second\second\obj\Debug\second.pdb
